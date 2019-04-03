@@ -1,0 +1,4 @@
+name: SmartApplicationBox
+author: CactusCata
+version: 0.0.2
+date: 19/10/2018 16:25
